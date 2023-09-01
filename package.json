@@ -17,7 +17,11 @@
     "react": "^18.2.0",
     "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "three": "^0.156.0",
+=======
+    "three": "^0.155.0",
+>>>>>>> 630a8c08c6e538b21d7edaba42ad2047325503eb
     "valtio": "^1.11.2"
   },
   "devDependencies": {
